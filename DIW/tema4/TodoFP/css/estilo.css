@@ -1,0 +1,250 @@
+body{
+    margin: 0 auto;
+    margin-left: 15%;
+}
+#contenedor{
+    font-family: arial;
+    width: 1000px;
+}
+
+/*Css para la cabecera*/
+header{
+    overflow: auto;
+    background:linear-gradient(#148714,#24D624) ;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 4px 0 4px #D6D6D6;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 2px;
+    float: right;      
+}
+
+#noActivo{
+    
+    background: linear-gradient(to left,#A7EA5B,#CCE8AE,#A7EA5B);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #148714;
+}
+
+#activo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 8px; 
+    background: linear-gradient(to left,#F7C247,#CCE8AE,#F7C247);
+}
+#left{
+  
+    float: left;
+    width: 220px;
+    
+}
+/*CSS AREA DE USUARIO*/
+
+#areaUser{
+    
+    margin-left: 15px;
+}
+
+#areaUser input{
+    display: block;
+    margin-left: 12px;
+    
+}
+
+#areaUser h3{
+    font-size: 15px;
+    
+    background-color: #4F69EF;
+    padding: 8px;
+    padding-right:20px;
+    padding-left: 5px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 4px 4px 4px #AFB1BC;
+   
+}
+
+#areaUser label{
+    margin-left: 12px;
+}
+
+#areaUser a{
+    margin-left: 12px;
+    color: #148714;
+    text-decoration: none;
+}
+
+#udTrabajo{
+
+    margin-left: 15px;
+}
+
+#udTrabajo h3{
+    font-size: 15px; 
+    background-color: #4F69EF;
+    padding: 8px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 4px 4px 4px #AFB1BC;
+    
+    
+   
+}
+
+#udTrabajo dt{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#udTrabajo dd{
+    margin-left: 0px;
+    margin-left: 15px;
+   
+
+}
+#udTrabajo dd a{
+    color: #148714;
+    text-decoration: none;
+}
+
+
+
+
+
+#derecha{
+    float: right;
+    width: 180px;
+    padding-left: 20px;
+}
+.imCentro{
+    margin-left: 30px
+}
+
+#right h3{
+    font-size: 15px; 
+     background-color: #4F69EF;
+    padding: 8px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 4px 4px 4px #AFB1BC;
+}
+
+#right a{
+    color: #148714;
+    font-weight: bold;
+}
+
+#right ul li{
+    color: #148714;
+}
+
+#centro{
+    width: 480px;
+    margin-left: 250px;
+    padding-left: 20px;
+}
+
+.italica{
+    font-style: italic;
+}
+
+#hojaEstilo a{
+    color: #148714;
+}
+
+
+
+#bienvenido a{
+    color: #148714;
+    font-weight: bold;
+}
+
+.peque{
+    font-weight: normal;
+}
+
+#bienvenido h3{
+    font-size: 15px; 
+    background-color: #4F69EF;
+    padding: 8px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 4px 4px 4px #AFB1BC;
+}
+
+.fecha{
+    float: right;
+}
+
+#hojaEstilo h3{
+    font-size: 15px; 
+    background-color: #4F69EF;
+    padding: 8px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    box-shadow: 4px 4px 4px #AFB1BC;
+}
+
+footer{
+    border-left: solid;
+    border-top: solid;
+    border-right: solid;
+    border-color: #148714;
+    border-radius: 15px 15px 0px 0px;
+    padding: 20px;  
+}
+
+footer a{
+    color: #148714;
+}
+
+#articulos{
+    border-left: solid ;
+    border-top: solid;
+    border-right: solid;
+    border-color: white;
+    border-radius: 15px 15px 0px 0px;
+    
+    
+}
+
+#otros{
+    
+     border-left: solid;
+    border-top: solid;
+    border-right: solid;
+    border-color: #148714;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.logoAlumn{
+     background-image: url("../img/rellenoLogo.png");
+     background-color: lightgrey;
+    font-size: 5em;
+    color:#148714;
+    margin-left: 20px;
+}
+
+.logoFP{
+    background-image: url("../img/rellenoLogo.png");
+     background-color: lightgrey;
+    font-size: 5em;
+    color:#148714;
+    margin-left: 20px;
+    float:left; margin-right: 20px;
+}
+

@@ -1,0 +1,132 @@
+body{
+	font-family: Verdana;
+}
+header{
+	text-align: center;
+	
+}
+.navbar{
+	background-color:#00B4C5;
+	
+}
+header h1{
+	color: #404040;
+	text-align: left;
+	font-family: "Arial Black";
+	margin-left: 1%;
+}
+header small{
+	color: #404040;
+	font-family: "Arial Black";
+}
+
+h3 a{
+	color:#00B4C5;
+}
+
+nav a{
+	margin-top: 1%;
+}
+
+.imgdex{
+	margin-top: 2%;
+}
+
+.fincio{
+	padding-top: 1%;
+	margin-top: 2%;
+	background-color:#00B4C5;
+	color:white;
+	
+}
+footer{
+	padding-top: 1%;
+	background-color:#00B4C5;
+	color:white;
+}
+
+.imgs2{
+	margin-top: 2%;
+}
+
+
+.columimg{
+	margin-top: 2%;
+}
+
+/*.main-content-diw{
+	height:calc(100vh - 210px);
+}
+.main-content-index{
+	height:calc(100vh - 242px);
+}
+.main-content-3{
+	height:calc(100vh - -1025px);
+}
+
+.main-content-dwes{
+	height:calc(100vh - 211px);
+}
+/*
+
+
+.carousel-inner { text-align: center; }
+.carousel .item > img { display: inline-block; }
+
+.main-content-dwes3{
+	height:calc(100vh - -3290px);
+}
+.main-content-dwes15{
+    height:calc(100vh - 100px);
+}
+.main-content-dwes10{
+    height:calc(100vh - -850px);
+}
+.main-content-dwescod{
+    height:calc(100vh - -1700px);  
+}
+.main-content-dwescod2{
+    height:calc(100vh - -2200px);   
+}
+.main-content-dwescod3{
+    height:calc(100vh - -1175px);  
+}
+.main-content-dwescod4{
+    height:calc(100vh - -4750px);  
+}
+.main-content-dwescod5{
+    height:calc(100vh - -2150px);  
+}
+.main-content-dwescod6{
+    height:calc(100vh - -1250px);  
+}
+.main-content-dwescod7{
+    height:calc(100vh - -2270px);   
+}
+.main-content-dwescod8{
+    height:calc(100vh - -2350px);   
+}
+.main-content-dwescod9{
+    height:calc(100vh - -1650px);  
+}
+.main-content-dwescod10{
+    height:calc(100vh - -850px);   
+}
+.main-content-dwescod11{
+    height:calc(100vh - -1250px);   
+}
+.main-content-dwescod12{
+    height:calc(100vh - -2150px);   
+}
+.main-content-dwescod19{
+    height:calc(100vh - -6150px);  
+}
+.main-content-dwesform{
+    height:calc(100vh - 199px);
+}
+.main-content-dwescodform{
+    height:calc(100vh - -3300px);  
+}
+.main-content-dwescodform2{
+    height:calc(100vh - -3475px);  
+}*/

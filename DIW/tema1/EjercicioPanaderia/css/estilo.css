@@ -1,0 +1,240 @@
+@charset "utf-8";
+
+
+
+body{
+        font: 100% Verdana, Arial, Helvetica, sans-serif;
+    	background: #990000;
+    	margin: 0; 
+    	padding: 0;
+    	text-align: center; 
+    	color: #000000;
+        width: 100%;
+        height: 100%;
+       
+}
+
+#pagina{
+        margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+a:link{
+        text-decoration: none;
+        font-weight:bold;
+        color: black;
+}
+
+a:hover{
+	color:#cccccc;
+	font-weight:bolder;
+	background-color:#FFFFFF;
+	text-decoration: overline underline;
+}
+
+a:visited{
+	text-decoration:none;
+	color:#000000;
+}
+
+#imagenes ul {
+        list-style: none;
+}
+
+#lista1 ul li{
+        list-style: none;
+        display: inline;
+        /*padding: 0 10px 0 20px;*/
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+        
+       
+        
+}
+
+#listemp1 ul li{
+        display: inline;
+        list-style: none;
+            
+        padding-top: 50px;
+        padding-bottom: 20px;
+}
+
+
+
+
+
+h1{
+        text-align:left;
+}
+
+
+h2{
+        color:#FFAA00; text-align:left;
+        
+}
+
+
+#lista1 li{
+        padding:0px 10px;
+}
+
+
+.unColor #pagina{
+        width: 1024px;
+        background: #FFFFFF;
+        margin: 0 auto;
+        
+        border: 1px solid #000000;
+        text-align: center;
+        height: 880px;
+}
+
+.unColor header {
+        padding: 0 10px 0 20px;
+        background-color: #FFCC33;;
+        width: 995px;
+        height: 200px;
+        background-image:url(../img/pan.jpg);
+        background-position:center;
+        height: 25%;
+		 
+}
+
+.unColor #articulo{
+        
+        padding: 0 10px;
+	background-image:url(../img/pan2.jpg);
+	background-repeat:no-repeat;
+        height: 530px;
+        width: 1005px;
+        
+}
+
+.unColor #direccion h1{
+        margin-left: 15px;
+        color: #FFCC33;
+        
+}
+.unColor #direccion p{
+        margin-left: 15px;
+        
+}
+
+article{
+        padding-top: 25px;
+        padding-bottom: 30px;
+}
+
+.unColor #articulo1{
+        height: 120px;
+}
+
+#menu img{
+        float: left;
+}
+
+#menu ul li img{
+        float: right;
+        
+}
+
+.inicio{
+
+	color: #CCCCCC;
+	text-decoration:underline;
+}
+
+
+footer{
+        
+        
+	height: 23px;
+	width: 100%;
+	padding-top: 20px;
+	background-image:url(../img/pan.jpg);
+	background-position:center bottom;
+        width:100%;
+        height: 10%;
+}
+
+footer ul li{
+        
+        font-size: 10px;
+        display: inline;
+        margin: 0; 
+    	padding: 0 50px;
+	font-weight:bolder;
+	color: #FFFFFF;
+	/*text-align:center;*/
+}
+
+nav{
+        padding-bottom: 150px;
+}
+
+#lisimag1 ul li {
+        border: solid #FF9933 1.5px;
+        display: inline-block;
+        width: 210px;
+        height: 130px;
+        text-align: center;
+        
+}
+
+#lisimag1 ul li img{
+        float: left;
+        margin-left: 5px;
+        
+}
+
+#listemp1 ul li{
+        border: solid #DB7618;
+        padding-top: 150px;
+        padding-bottom: 90px;
+        padding-right: 34px;
+
+        margin-right: 0px;
+}       
+
+#listemp1 ul{
+        padding-bottom: 102px;
+}
+
+#listemp1 ul li img{
+   margin-top: 25px;
+        
+}
+
+.mapa{
+	background:url(../img/ayamonte_isla_lepe.jpg) center no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

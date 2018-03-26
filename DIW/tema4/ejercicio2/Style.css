@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'oficina';
+    src: url('OSans.otf');
+}
+
+body{
+    background-image:url(fondo.jpg);
+    font-family: 'times new roman';
+    font-size : 0.75em;
+    
+}
+
+
+.fotoright{ 
+    float: right;
+    width: 500px; 
+    margin-left: 100px;  
+    height: 600px;
+    
+}
+
+.pie{
+    
+  
+    text-align: center;
+}
+
+#texto{
+   
+    margin-right: 700px;
+    
+}
+
+div{
+    display: inline;
+}
+
+.capitular{
+    font-family: 'times new roman';
+    float:left;
+    display: block;
+    width:30px;
+    height: 35px;
+    border-radius: 3px;
+    background :#232121;
+    margin-top:0;
+    margin-right: 5px;
+    margin-button: 0px;
+    margin-left: 0px;
+    font-size: 2em;
+    line-height:normal;
+    color: rgb(255,255,255);
+    text-transform: unpercase;
+    text-aling: center;
+    
+}
+
+h1{
+    font-style: italic;
+    font-size: 2em;
+}

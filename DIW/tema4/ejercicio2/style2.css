@@ -1,0 +1,86 @@
+body{
+    font : 0.75em/1.5em Georgia, "Times Ner Roman", serif;
+    color: #232121;
+    background-image:url(fondo.jpg); 
+}
+
+article{
+    min-height: 800px; 
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 18px;
+    margin-left: 20px;
+    display: block;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #c30;
+    padding-left: 20px;
+}
+
+
+.capitular{
+    float:left;
+    display: block;
+    width:36px;
+    height: 36px;
+    border-radius: 3px;
+    background :#232121;
+    margin-top:0;
+    margin-right: 5px;
+    margin-button: 0px;
+    margin-left: 0px;
+    font-size: 3em;
+    line-height:normal;
+    color: rgb(255,255,255);
+    text-transform: uppercase;
+    text-align: center;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+
+.fotoright{
+    float: right;
+    width: 550px;
+    padding-left: 10px;
+    
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.pie{
+    text-align: center;
+}
+
+p{
+    margin: 0 0 18px;
+}
+
+bockquote{
+    float: left;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 40px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 3em;
+    line-height: 36px;
+    font-style: italic;
+    font-weight: normal;
+    padding-top: 9px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
